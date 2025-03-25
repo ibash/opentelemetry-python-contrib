@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## Version 1.32.0/0.53b0 (2025-03-25)
+
 ### Fixed
 
 - `opentelemetry-instrumentation` Fix client address is set to server address in new semconv
